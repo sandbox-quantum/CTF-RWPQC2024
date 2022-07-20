@@ -1,0 +1,2 @@
+ecdsa>=0.18.0b1
+pycryptodome
