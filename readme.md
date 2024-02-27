@@ -1,4 +1,4 @@
-![image1](https://github.com/sandbox-quantum/experimental-amunoz/blob/main/CTFSandboxAQ/images/image1.png)
+![image1](images/image1.png)
 
 # SandboxAQ Capture the Flag - February/March 2024
 
@@ -61,5 +61,5 @@ By submitting your response, you agree to the following:
 
 For questions regarding the competition, join us on Discord at [RWPQC.org](https://discord.gg/vbTcgV7xQt), #CTF channel.
 
-![image2](https://github.com/sandbox-quantum/experimental-amunoz/blob/main/CTFSandboxAQ/images/image2.png)
+![image2](images/image2.png)
 
