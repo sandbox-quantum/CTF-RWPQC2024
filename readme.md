@@ -48,13 +48,13 @@ By submitting your response, you agree to the following:
 
 ## Challenges
 
-[Challenge 1 - Degrees of polynomials in post-quantum cryptography. Breaking baby Kyber](https://github.com/sandbox-quantum/experimental-amunoz/blob/main/CTFSandboxAQ/challenges/challenge1.md) 25 points
+[Challenge 1 - Degrees of polynomials in post-quantum cryptography. Breaking baby Kyber](https://github.com/sandbox-quantum/CTF-RWPQC2024/blob/main/challenges/challenge1.md) 25 points
 
-[Challenge 2 - Attack on Trained Logistic Regression Model](https://github.com/sandbox-quantum/experimental-amunoz/blob/main/CTFSandboxAQ/challenges/challenge2.md) 20 points
+[Challenge 2 - Attack on Trained Logistic Regression Model](https://github.com/sandbox-quantum/CTF-RWPQC2024/blob/main/challenges/challenge2.md) 20 points
 
-[Challenge 3 - Breaking a real PQC implementations. How to be a crypto analyst](https://github.com/sandbox-quantum/experimental-amunoz/blob/main/CTFSandboxAQ/challenges/challenge3.md) 35 points
+[Challenge 3 - Breaking a real PQC implementations. How to be a crypto analyst](https://github.com/sandbox-quantum/CTF-RWPQC2024/blob/main/challenges/challenge3.md) 35 points
 
-[Challenge 4 - Dancing by Xyber](https://github.com/sandbox-quantum/experimental-amunoz/blob/main/CTFSandboxAQ/challenges/challenge4.md) 20 points
+[Challenge 4 - Dancing by Xyber](https://github.com/sandbox-quantum/CTF-RWPQC2024/blob/main/challenges/challenge4.md) 20 points
 
 
 ## FAQ and questions
