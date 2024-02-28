@@ -8,7 +8,7 @@ PQFTP binaries provided are x86-64 compiled Ubuntu binaries that should run on a
 ## Challenge objective
 
 The goal is to decrypt the traffic and return decrypted secret contents of the encrypted files transferred.
-To evaluate your solution the decrypted secret contents need to send us to __ctf-rwpqc2024@sandboxaq.com__ with the subject "Challenge1".
+To evaluate your solution the decrypted secret contents need to send us to __ctf-rwpqc2024@sandboxaq.com__ with the subject "Challenge3".
 
 Hint: To do this, reverse engineer the binary to find a cryptographic bug, and then using this knowledge write a program using libOQS library and any other necessary libraries to decrypt the network traffic in the pcap file.
 
